@@ -1,5 +1,7 @@
 # ContextKit
-Components and templates to aid adding context to your prototypes.
+System-level prototyping resources. Designed to add context to your prototypes.
+
+![ContextKit: System-level prototyping resources](contextkit-og.jpg)
 
 ## Compatibility
 Origami Studio-only for now.

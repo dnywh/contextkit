@@ -2,19 +2,19 @@
   {
     "export" : true,
     "identifier" : 12102967153842887162,
-    "documentURL" : "file:\/\/\/Users\/danny\/Google%20Drive\/Personal\/Projects\/ContextKit\/ContextKit\/Notification.origami",
+    "documentURL" : "file:\/\/\/Users\/danny\/Projects\/contextkit\/origami\/ContextKit\/Notification.origami",
     "name" : "Notification"
   },
   {
     "export" : true,
     "identifier" : 7307873546368196127,
-    "documentURL" : "file:\/\/\/Users\/danny\/Google%20Drive\/Personal\/Projects\/ContextKit\/ContextKit\/Status%20Bar%20with%20Deep%20Link.origami",
+    "documentURL" : "file:\/\/\/Users\/danny\/Projects\/contextkit\/origami\/ContextKit\/Status%20Bar%20with%20Deep%20Link.origami",
     "name" : "Status Bar with Deep Link"
   },
   {
     "export" : true,
     "identifier" : 12486290537264319946,
-    "documentURL" : "file:\/\/\/Users\/danny\/Google%20Drive\/Personal\/Projects\/ContextKit\/ContextKit\/SpringBoard%20App.origami",
+    "documentURL" : "file:\/\/\/Users\/danny\/Projects\/contextkit\/origami\/ContextKit\/SpringBoard%20App.origami",
     "name" : "SpringBoard App"
   }
 ]

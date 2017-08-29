@@ -7,6 +7,12 @@
   },
   {
     "export" : true,
+    "identifier" : 309176349485385486,
+    "documentURL" : "file:\/\/\/Users\/danny\/Projects\/contextkit\/origami\/ContextKit\/Android%20Navigation%20Bar.origami",
+    "name" : "Navigation Bar"
+  },
+  {
+    "export" : true,
     "identifier" : 7307873546368196127,
     "documentURL" : "file:\/\/\/Users\/danny\/Projects\/contextkit\/origami\/ContextKit\/Status%20Bar%20with%20Deep%20Link.origami",
     "name" : "Status Bar with Deep Link"

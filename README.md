@@ -2,7 +2,7 @@
 System-level prototyping resources. Designed to add context to your prototypes.
 
 ## Compatibility
-Origami Studio-only for now.
+[Origami Studio](https://origami.design)-only for now.
 
 ## Installation
 Clone or download the repository for access to the .origami-system or individual .origami files. See [this post](http://dannywhite.is/contextkit-for-origami/#installation) for a comprehensive look at installation methods.

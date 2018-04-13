@@ -12,13 +12,6 @@ Detailed information on each component's inputs and outputs is available inside 
 - [iOS Notification component for Origami](origami/notification.md)
 - [iOS SpringBoard App component for Origami](origami/springboard-app.md)
 
-## Change Log
-August 24, 2017
-- Updated Maps and App Store icons to reflect latest iOS 11 designs
-
-August 16, 2017
-- Launched ContextKit with Origami iOS components and templates for SpringBoard, Notification, and Deep Link
-
 ## Credits
 Working on ContextKit is a lot faster thanks to resources including:
 
